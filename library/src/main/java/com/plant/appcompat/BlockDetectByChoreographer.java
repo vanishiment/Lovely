@@ -9,6 +9,8 @@ import java.util.concurrent.TimeUnit;
  * sn=ecc33d3675a8aef7c3dcc6b20e53989c&chksm=84b3bb2ab3c4323c16d41332c6906
  * d18144ba2afce47fea79981eadfaea3d87c2e332a36c6af&mpshare=1&scene=23&srcid
  * =0119XMpe6ViOqkkAdeaUO7dp#rd
+ *
+ * https://developer.android.com/reference/android/view/Choreographer.FrameCallback.html
  */
 public class BlockDetectByChoreographer {
 
